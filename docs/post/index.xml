@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>amazon-sagemaker-examples-jp – Posts</title>
+    <link>http://kazuhitogo.github.io/amazon-sagemaker-examples-jp/post/</link>
+    <description>Recent content in Posts on amazon-sagemaker-examples-jp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 27 Jan 2021 13:45:08 +0000</lastBuildDate>
+    
+	  <atom:link href="http://kazuhitogo.github.io/amazon-sagemaker-examples-jp/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Post: MyFirstArticle</title>
+      <link>http://kazuhitogo.github.io/amazon-sagemaker-examples-jp/post/myfirstarticle/</link>
+      <pubDate>Wed, 27 Jan 2021 13:45:08 +0000</pubDate>
+      
+      <guid>http://kazuhitogo.github.io/amazon-sagemaker-examples-jp/post/myfirstarticle/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;amazon-sagemaker-for-beginners&#34;&gt;Amazon SageMaker for Beginners&lt;/h1&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
