@@ -1,0 +1,5 @@
+baseURL = "http://kazuhitogo.github.io/amazon-sagemaker-examples-jp/"
+languageCode = "ja-jp"
+title = "amazon-sagemaker-examples-jp"
+theme = "docsy"
+publishDir = "docsy"

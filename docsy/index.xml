@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>amazon-sagemaker-examples-jp – amazon-sagemaker-examples-jp</title>
+    <link>http://kazuhitogo.github.io/amazon-sagemaker-examples-jp/</link>
+    <description>Recent content on amazon-sagemaker-examples-jp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    
+	  <atom:link href="http://kazuhitogo.github.io/amazon-sagemaker-examples-jp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+      
+    
+    
+  </channel>
+</rss>
